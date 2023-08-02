@@ -1,1 +1,1 @@
-# Lab06 - DoubleArraySeq
+# Lab07 - DoubleArraySeq
